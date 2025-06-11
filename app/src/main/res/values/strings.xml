@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DRAGONBALLZ</string>
+    <string name="welcome">Bienvenido a Dragon Ball Z</string>
+    <string name="start">Ver personajes</string>
+    <string name="character_image_desc">Imagen del personaje</string>
+    <string name="character_ki">KI: %1$d/%2$d</string>
+    <string name="see_characters">Ver personajes</string>
+
+
+</resources>
